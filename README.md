@@ -55,7 +55,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gustavor8/gustavor8/output/snake.svg" alt="Snake animation" />
 
-###
 
