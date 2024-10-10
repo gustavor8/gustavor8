@@ -55,7 +55,7 @@
 
 ###
 
-### 🐍 Snake Game - GitHub Contribution Graph
+<img src="https://raw.githubusercontent.com/gustavor8/gustavor8/output/snake.svg" alt="Snake animation" />
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+###
 
