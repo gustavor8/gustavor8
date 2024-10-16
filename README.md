@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm from Ceará - Brazil, and I'm starting my journey as a Full Stack Developer. Passionate about technology and challenges, I'm always looking for ways to exceed my goals and grow as a professional. I believe that continuous learning is key to success, and I'm open to new opportunities and experiences that help me evolve.<br><br>My principles are based on honesty, availability, and openness to new things, always striving to learn more and improve both technically and personally. My goal is to become a successful developer, contributing with creative and effective solutions.<br><br>💡 Always learning<br>🎯 Focused on overcoming challenges<br>🚀 In constant pursuit of growth<br><br>Let's connect and share knowledge!</h3>
+<h3 align="left">I'm from Ceará - Brazil, and I'm starting my journey as a Full Stack Developer. Passionate about technology and challenges, I'm always looking for ways to exceed my goals and grow as a professional. I believe that continuous learning is key to success, and I'm open to new opportunities and experiences that help me evolve.<br><br>My principles are based on honesty, availability, and openness to the new, always striving to learn more and improve both technically and personally. My goal is to become a successful developer, contributing with creative and effective solutions.<br><br>💡 Always learning<br>🎯 Focused on overcoming challenges<br>🚀 In constant pursuit of growth<br><br>Let's connect and share knowledge!</h3>
 
 ###
 
