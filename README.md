@@ -1,9 +1,9 @@
-<h1 align="left">Hello, I'm Gustavo Rodrigues 👋</h1>
-<a href="https://portifolio-gustavo-rodrigues.vercel.app" target="_blank" rel="noopener noreferrer">See my portfolio 👨‍💻🖥️ </a>
+<h1 align="left">Olá! Me chamo Gustavo Rodrigues 👋</h1>
+<a href="[https://portifolio-gustavo-rodrigues.vercel.app](https://portifolio-h09n2lwzg-gustavo-rodrigues-projects-6b379dbf.vercel.app/)" target="_blank" rel="noopener noreferrer">See my portfolio 👨‍💻🖥️ </a>
 
 ###
 
-<h3 align="left">I'm from Ceará - Brazil, and I'm starting my journey as a Full Stack Developer. Passionate about technology and challenges, I'm always looking for ways to exceed my goals and grow as a professional. I believe that continuous learning is key to success, and I'm open to new opportunities and experiences that help me evolve.<br><br>My principles are based on honesty, availability, and openness to the new, always striving to learn more and improve both technically and personally. My goal is to become a successful developer, contributing with creative and effective solutions.<br><br>💡 Always learning<br>🎯 Focused on overcoming challenges<br>🚀 In constant pursuit of growth<br><br>Let's connect and share knowledge!</h3>
+<h3 align="left">Sou do Ceará - Brasil, e estou iniciando minha jornada como Desenvolvedor Full Stack. Apaixonado por tecnologia e desafios, estou sempre buscando maneiras de superar meus objetivos e crescer como profissional. Acredito que o aprendizado contínuo é a chave para o sucesso, e estou aberto a novas oportunidades e experiências que me ajudem a evoluir. Meus princípios são baseados em honestidade, disponibilidade e abertura ao novo, sempre buscando aprender mais e melhorar tanto técnica quanto pessoalmente. Meu objetivo é me tornar um desenvolvedor de sucesso, contribuindo com soluções criativas, eficiente e eficazes.<br><br>💡 Sempre aprendendo<br>🎯 Focado em superar desafios<br>🚀 Evolução constante <br><br>Vamos nos conectar e compartilhar conhecimento!</h3>
 
 ###
 
