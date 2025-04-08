@@ -1,5 +1,5 @@
 <h1 align="left">Olá! Me chamo Gustavo Rodrigues 👋</h1>
-<a href="[https://portifolio-gustavo-rodrigues.vercel.app](https://portifolio-h09n2lwzg-gustavo-rodrigues-projects-6b379dbf.vercel.app/)" target="_blank" rel="noopener noreferrer">See my portfolio 👨‍💻🖥️ </a>
+<a href="https://portifolio-gustavo-rodrigues.vercel.app](https://portifolio-h09n2lwzg-gustavo-rodrigues-projects-6b379dbf.vercel.app/)" target="_blank" rel="noopener noreferrer">See my portfolio 👨‍💻🖥️ </a>
 
 ###
 
